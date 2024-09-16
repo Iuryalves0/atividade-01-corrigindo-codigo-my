@@ -1,4 +1,4 @@
-# Atividade de Lógica de Programação
+# Atividade Pontuada de Lógica de Programação
 
 # 01 - Corrigindo código
 
